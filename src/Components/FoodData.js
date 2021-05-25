@@ -13,7 +13,7 @@ const FoodData = () => {
 
     const handleClickAdd = (e, meal) => {
         setSelectedMeals(selectedMeals => [...selectedMeals, meal]);
-        e.target.style.color = '#6285d6'
+        e.target.style.color = '#6285d6';
     }
 
     const nextStep = () => {
