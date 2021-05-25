@@ -1,0 +1,235 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Escalopes",
+            "ingredients": [
+                "escalopes",
+                "frozen potato",
+                "mayo"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 2,
+            "name": "Salmon",
+            "ingredients": [
+                "salmon",
+                "asparagus",
+                "giant couscous"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 3,
+            "name": "Gyros",
+            "ingredients": [
+                "gyros",
+                "tzatziki",
+                "tomato",
+                "cucumber",
+                "onion",
+                "wrap"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 4,
+            "name": "Hamburger",
+            "ingredients": [
+                "burgers",
+                "buns",
+                "tomato",
+                "cheese slices",
+                "onion",
+                "jalapeno",
+                "majo",
+                "ketchup",
+                "fried onions"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 5,
+            "name": "Gnocchi",
+            "ingredients": [
+                "gnocchi",
+                "pasta sauce",
+                "cheese"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 6,
+            "name": "Tortelloni",
+            "ingredients": [
+                "tortelloni",
+                "pasta sauce",
+                "cheese"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 7,
+            "name": "One-pan pasta",
+            "ingredients": [
+                "tomato",
+                "spinach",
+                "onion",
+                "250g pasta",
+                "garlic",
+                "basil",
+                "oregano",
+                "bird eye chilli",
+                "cheese"
+            ],
+            "isWeekday": 0
+        },
+        {
+            "id": 8,
+            "name": "Stir fry",
+            "ingredients": [
+                "onion",
+                "baby corn",
+                "garlic",
+                "ginger",
+                "sugar snap peas",
+                "medium egg noodles",
+                "soy sauce",
+                "tofu"
+            ],
+            "isWeekday": 0
+        },
+        {
+            "id": 9,
+            "name": "Prawn Curry",
+            "ingredients": [
+                "prawn",
+                "onion",
+                "coconut milk",
+                "curry spice",
+                "chopped tomato",
+                "garlic",
+                "naan",
+                "rice"
+            ],
+            "isWeekday": 0
+        },
+        {
+            "id": 10,
+            "name": "Quesadilla",
+            "ingredients": [
+                "tomato",
+                "onion",
+                "corn",
+                "mexican spice",
+                "jalapeno",
+                "sriracha",
+                "wrap",
+                "black bean"
+            ],
+            "isWeekday": 0
+        },
+        {
+            "id": 11,
+            "name": "Chicken and mash",
+            "ingredients": [
+                "chicken",
+                "potato",
+                "butter",
+                "milk",
+                "jalapeno"
+            ],
+            "isWeekday": 0
+        },
+        {
+            "id": 12,
+            "name": "Thai soup",
+            "ingredients": [
+                "prawn",
+                "kaffir lime leaves",
+                "bok choy",
+                "fragrant thai base",
+                "baby corn",
+                "sugar snap peas",
+                "udon noodles",
+                "vegetable stock cubes",
+                "chilli paste",
+                "garlic"
+            ],
+            "isWeekday": 0
+        },
+        {
+            "id": 13,
+            "name": "Basa & chips",
+            "ingredients": [
+                "basa",
+                "sweet potato",
+                "mayo"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 14,
+            "name": "Mac n cheese",
+            "ingredients": [
+                "mac n cheese"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 15,
+            "name": "Bean stew",
+            "ingredients": [
+                "bean",
+                "frankfurter",
+                "tomato patse",
+                "red/green pepper",
+                "onion",
+                "garlic",
+                "paprika"
+            ],
+            "isWeekday": 0
+        },
+        {
+            "id": 15,
+            "name": "Tomato & Mozzarella Pasta",
+            "ingredients": [
+                "Tomato & Mozzarella Pasta"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 16,
+            "name": "Wasabi Vegetable Gyoza Yakisoba",
+            "ingredients": [
+                "Wasabi Vegetable Gyoza Yakisoba"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 17,
+            "name": "Plant Pioneers Spaghetti Bolognese",
+            "ingredients": [
+                "Plant Pioneers Spaghetti Bolognese"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 18,
+            "name": "Cheesy Stuffed Pepperoni Pizza",
+            "ingredients": [
+                "Cheesy Stuffed Pepperoni Pizza"
+            ],
+            "isWeekday": 1
+        },
+        {
+            "id": 19,
+            "name": "Cheesy Stuffed Pizza",
+            "ingredients": [
+                "Cheesy Stuffed Pizza"
+            ],
+            "isWeekday": 1
+        }
+    ]
+}
