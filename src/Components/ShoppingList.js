@@ -1,18 +1,10 @@
-import React, { useState } from 'react'
+import React, { useEffect } from 'react'
 
-const ShoppingList = ({ prevStep, meals }) => {
-    let ingrArrays = meals.map(meal => (
-        meal.ingredients.map(ingredient => (
-            ingredient
-        ))
-    ))
-    let mergedIngr = [].concat.apply([], ingrArrays);
-    const [uniqueIngr, setUniqueIngr] = useState(mergedIngr.filter((value, index) => mergedIngr.indexOf(value) === index));
+const ShoppingList = ({ prevStep, removeItem, uniqueIngr, createShoppingList }) => {
+   useEffect(()=>{
+    createShoppingList()
+   },[])
 
-    const removeItem = (index) => {
-        let Arr = uniqueIngr.filter((item, i) => (i !== index))
-        setUniqueIngr(Arr);
-    }
     const copyList = () => {
         let listText = uniqueIngr.toString().split(',').join("\r\n");
         navigator.clipboard.writeText(listText);

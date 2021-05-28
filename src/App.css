@@ -71,3 +71,35 @@ body{
 .buttonNext:active {
   background-color: rgb(58, 58, 58);
 }
+
+.newMealForm {
+  background-color: rgb(29, 29, 29);
+  width: 50%;
+  margin: auto;  
+  border-radius: 1em;
+  color: rgb(211, 211, 211);
+}
+
+.newMealFormContainer {
+  position: absolute;
+  top: 10em;
+  width: 100%;
+  height: 100%;
+}
+.newMealForm form label, .newMealForm form input, .newMealForm form select {
+  display: block;
+  padding: 1em 0;
+}
+
+.newMealForm form input, .newMealForm form select {
+  width: 80%;
+  margin: auto;
+}
+.newMealForm form button {
+  margin: 3em 0;
+  padding: .5em 1em;
+  background-color: transparent;
+  border: rgb(216, 216, 216) solid .1em;
+  color: rgb(216, 216, 216);
+
+}

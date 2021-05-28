@@ -1,7 +1,10 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
-const FoodList = ({ meals, nextStep, prevStep, weekdayChecked, weekendChecked, handleClickAdd }) => {
-
+const FoodList = ({ meals, nextStep, prevStep, weekdayChecked, weekendChecked, handleClickAdd, matchSelectedMeal }) => {
+ 
+    useEffect(()=>{
+        matchSelectedMeal();
+    },[])
     return (
         <div>
             <div className='card'>
