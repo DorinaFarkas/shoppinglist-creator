@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react'
 
 const ShoppingList = ({ prevStep, removeItem, uniqueIngr, createShoppingList }) => {
-   useEffect(()=>{
-    createShoppingList()
-   },[])
+    useEffect(() => {
+        createShoppingList()
+    }, [])
 
     const copyList = () => {
         let listText = uniqueIngr.toString().split(',').join("\r\n");

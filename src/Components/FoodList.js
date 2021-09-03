@@ -4,7 +4,7 @@ const FoodList = ({ meals, nextStep, prevStep, weekdayChecked, weekendChecked, h
  
     useEffect(()=>{
         matchSelectedMeal();
-    },[])
+    })
     return (
         <div>
             <div className='card'>

@@ -37,7 +37,6 @@ const FoodData = () => {
             setSelectedMeals(selectedMeals => [...selectedMeals, meal]);
             e.target.style.color = '#6285d6';
         }
-        console.log(selectedMeals)
     }
 
     const toggleForm = () => {
@@ -75,7 +74,6 @@ const FoodData = () => {
     const nextStep = () => {
         let next = step + 1;
         setStep(next);
-        console.log(step);
     };
 
     const prevStep = () => {

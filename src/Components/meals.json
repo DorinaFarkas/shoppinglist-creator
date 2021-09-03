@@ -96,7 +96,8 @@
         "sugar snap peas",
         "medium egg noodles",
         "soy sauce",
-        "tofu"
+        "tofu",
+        "peanut"
       ],
       "isWeekday": 0
     },
@@ -126,7 +127,8 @@
         "jalapeno",
         "sriracha",
         "wrap",
-        "black bean"
+        "black bean",
+        "cheese"
       ],
       "isWeekday": 0
     },
@@ -136,9 +138,10 @@
       "ingredients": [
         "chicken",
         "potato",
+        "onion chutney",
+        "cheese",
         "butter",
-        "milk",
-        "jalapeno"
+        "milk"
       ],
       "isWeekday": 0
     },
@@ -155,6 +158,8 @@
         "udon noodles",
         "vegetable stock cubes",
         "chilli paste",
+        "coconut milk",
+        "lime",
         "garlic"
       ],
       "isWeekday": 0
@@ -187,7 +192,8 @@
         "red/green pepper",
         "onion",
         "garlic",
-        "paprika"
+        "paprika",
+        "bread"
       ],
       "isWeekday": 0
     },
@@ -230,6 +236,43 @@
         "Cheesy Stuffed Pizza"
       ],
       "isWeekday": 1
+    },
+    {
+      "name": "Falafel",
+      "ingredients": [
+        "falafel",
+        "hummus",
+        "couscous",
+        "cucumber",
+        "tomato",
+        "pepper dip"
+      ],
+      "isWeekday": 0,
+      "id": 20
+    },
+    {
+      "name": "Scallop & Prawn Bisque",
+      "ingredients": [
+        "Scallop & Prawn Bisque",
+        "Taste the Difference",
+        "baguette"
+      ],
+      "isWeekday": 0,
+      "id": 21
+    },
+    {
+      "name": "Super Cheesy Ovenbaked Tomato Risotto",
+      "ingredients": [
+        "onion",
+        "garlic",
+        "risotto rice",
+        "hard Italian style cheese",
+        "cheese",
+        "sun-dried tomato paste",
+        "stock cube"
+      ],
+      "isWeekday": 0,
+      "id": 22
     }
   ]
 }
