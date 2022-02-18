@@ -273,6 +273,34 @@
       ],
       "isWeekday": 0,
       "id": 22
+    },
+    {
+      "name": "Stuffed Crust Sticky BBQ Jackfruit Pizza",
+      "ingredients": [
+        "Stuffed Crust Sticky BBQ Jackfruit Pizza"
+      ],
+      "isWeekday": 1,
+      "id": 23
+    },
+    {
+      "name": "Sushi",
+      "ingredients": [
+        "sushi"
+      ],
+      "isWeekday": 1,
+      "id": 24
+    },
+    {
+      "name": "Glass Noodle Tofu Stir Fry",
+      "ingredients": [
+        "glass noodle",
+        "onion",
+        "noodle souce",
+        "bok choy",
+        "tofu"
+      ],
+      "isWeekday": 1,
+      "id": 25
     }
   ]
 }
